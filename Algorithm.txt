@@ -1,0 +1,10 @@
+Start
+Declare a variable voltage of type double
+Prompt user to enter a voltage reading
+Read the voltage value
+If voltage < 0 → print "Invalid voltage reading"
+Else if voltage ≤ 50 → print "Low voltage"
+Else if voltage ≤ 240 → print "Normal voltage"
+Else if voltage ≤ 415 → print "High voltage"
+Else → print "Dangerous voltage"
+Stop
